@@ -1,0 +1,36 @@
+body {
+    background-color: lightgreen;
+    font-family: Arial, sans-serif;
+    color: purple;
+}
+
+
+h1 {
+    background-color: lightblue;
+    color: tomato;
+    padding: 10px;
+    text-align: center;
+}
+
+
+h2 {
+    background-color: purple;
+    color: lightgreen;
+    padding: 5px;
+}
+
+
+.content {
+    padding: 20px;
+}
+
+
+strong {
+    color: purple;
+}
+
+
+u {
+    text-decoration: underline;
+    font-weight: normal; 
+}
